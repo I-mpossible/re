@@ -12,6 +12,7 @@
 #else
 #include <arpa/inet.h>
 #endif /* WIN32 */
+#include <string.h>
 #include <re_types.h>
 #include <re_fmt.h>
 #include <re_mbuf.h>
